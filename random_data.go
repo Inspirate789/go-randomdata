@@ -33,7 +33,7 @@ const (
 
 const (
 	DateInputLayout  = "2006-01-02"
-	DateOutputLayout = "Monday 2 Jan 2006"
+	DateOutputLayout = "2006-01-02"
 )
 
 const ALPHANUMERIC = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
